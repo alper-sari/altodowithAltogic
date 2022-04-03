@@ -11,7 +11,6 @@
 <a href="https://community.altogic.com/home"><p align="center"><img src="https://i.hizliresim.com/3jefu92.png"></p></a>
  
 <b> <p align="center">Thanks for their contribution</p></b>
-<br>
 <p align="center"> <a href="https://github.com/gurkanfikretgunak"> Gürkan Fikret GÜNAK</a> & <a href="https://github.com/alper-sari">Alper SARI</a> </p> 
 
  
