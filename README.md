@@ -1,7 +1,7 @@
 <p>This product is a minimalist and simple todo application. It's backend is entirely coded with Altogic. The frontend of the project was written with HTML, CSS and Javascript. You can start your simple todo app just take codes and create your Altogic account !</p>
 <br>
 <a href="https://altodo.altogic.app"><img src="https://i.hizliresim.com/ct1lmj4.png"></a>
-<p align="center">Live Preview</p>
+<a href="https://altodo.altogic.app"><button><p align="center">Live Preview</p></button></a>
 <br>
 
 <a href="https://www.altogic.com/"><img src="https://i.hizliresim.com/10f5dxs.png" align="left"></a> <a href="https://docs.altogic.com/"><img src="https://i.hizliresim.com/8g4dn7e.png" align="right"></a>
