@@ -10,4 +10,7 @@
 <br>
 <a href="https://community.altogic.com/home"><p align="center"><img src="https://i.hizliresim.com/3jefu92.png"></p></a>
  
- 
+<b> <p align="center">Thanks for their contribution</p></b>
+<br>
+<a href="https://github.com/gurkanfikretgunak"><p align="center">Gürkan Fikret GÜNAK</p></a> &nbsp; <a href="https://github.com/alper-sari"><p align="center">Alper SARI</p></a> 
+
