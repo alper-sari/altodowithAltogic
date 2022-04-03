@@ -12,5 +12,5 @@
  
 <b> <p align="center">Thanks for their contribution</p></b>
 <br>
-<a href="https://github.com/gurkanfikretgunak"><p align="center">Gürkan Fikret GÜNAK</p></a> &nbsp; <a href="https://github.com/alper-sari"><p align="center">Alper SARI</p></a> 
+<p align="center"> <a href="https://github.com/gurkanfikretgunak"> Gürkan Fikret GÜNAK</a>&nbsp; <a href="https://github.com/alper-sari">Alper SARI</a> </p> 
 
