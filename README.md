@@ -13,10 +13,12 @@ This product is a minimalist and simple todo application. It's backend is entire
 * 📜 Documentation: https://docs.altogic.com
 * 🫂 Community: https://community.altogic.com/
 * 👁️ Live Preview : https://altodo.altogic.app
-<br>
+
+
 ## 🤔 How To Use
 You do not need to make any settings for its installation, it is a web project. It is possible to run on your server or locally. But for private use you may need to replace it with your custom api from altogic.com. Since the project is linked to a public api, it won't work specifically for you.
-<br>
+
+
 ## 💪🏻 Contribution 
 <b> <p align="center">Thanks for their contribution</p></b>
 <p align="center"> <a href="https://github.com/gurkanfikretgunak"> Gürkan Fikret GÜNAK</a> & <a href="https://github.com/alper-sari">Alper SARI</a> </p> 
