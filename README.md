@@ -10,7 +10,7 @@ This product is a minimalist and simple todo application. It's backend is entire
 
 ## 🔗 Links
 * 🏠 Official Web Site: https://altogic.com
-* 📜 Documentation: https:docs.altogic.com
+* 📜 Documentation: https://docs.altogic.com
 * 🫂 Community: https://community.altogic.com/
 * 👁️ Live Preview : https://altodo.altogic.app
 
