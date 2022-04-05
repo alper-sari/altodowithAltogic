@@ -21,6 +21,6 @@ You do not need to make any settings for its installation, it is a web project. 
 
 ## 💪🏻 Contribution 
 <b> <p align="center">Thanks for their contribution</p></b>
-<p align="center"> <a href="https://github.com/gurkanfikretgunak"> Gürkan Fikret GÜNAK</a> & <a href="https://github.com/alper-sari">Alper SARI</a> </p> 
-
+<p align="center"> <a href="https://github.com/gurkanfikretgunak"> Gürkan Fikret GÜNAK</a> & <a href="https://github.com/alper-sari">Alper SARI</a> </p>  
+<br>
  
